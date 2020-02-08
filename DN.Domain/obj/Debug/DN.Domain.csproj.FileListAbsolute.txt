@@ -1,0 +1,8 @@
+C:\Projetos\Estudos\Lamattina\DN\DN.Domain\bin\Debug\DN.Domain.dll
+C:\Projetos\Estudos\Lamattina\DN\DN.Domain\bin\Debug\DN.Domain.pdb
+C:\Projetos\Estudos\Lamattina\DN\DN.Domain\bin\Debug\DN.SharedKernel.dll
+C:\Projetos\Estudos\Lamattina\DN\DN.Domain\bin\Debug\DN.SharedKernel.pdb
+C:\Projetos\Estudos\Lamattina\DN\DN.Domain\obj\Debug\DN.Domain.csprojAssemblyReference.cache
+C:\Projetos\Estudos\Lamattina\DN\DN.Domain\obj\Debug\DN.Domain.csproj.CopyComplete
+C:\Projetos\Estudos\Lamattina\DN\DN.Domain\obj\Debug\DN.Domain.dll
+C:\Projetos\Estudos\Lamattina\DN\DN.Domain\obj\Debug\DN.Domain.pdb

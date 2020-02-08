@@ -1,0 +1,15 @@
+C:\Projetos\Estudos\Lamattina\DN\DN.ApplicationService\bin\Debug\DN.ApplicationService.dll
+C:\Projetos\Estudos\Lamattina\DN\DN.ApplicationService\bin\Debug\DN.ApplicationService.pdb
+C:\Projetos\Estudos\Lamattina\DN\DN.ApplicationService\bin\Debug\DN.Data.dll
+C:\Projetos\Estudos\Lamattina\DN\DN.ApplicationService\bin\Debug\DN.Domain.dll
+C:\Projetos\Estudos\Lamattina\DN\DN.ApplicationService\bin\Debug\DN.SharedKernel.dll
+C:\Projetos\Estudos\Lamattina\DN\DN.ApplicationService\bin\Debug\EntityFramework.dll
+C:\Projetos\Estudos\Lamattina\DN\DN.ApplicationService\bin\Debug\DN.Data.pdb
+C:\Projetos\Estudos\Lamattina\DN\DN.ApplicationService\bin\Debug\DN.Data.dll.config
+C:\Projetos\Estudos\Lamattina\DN\DN.ApplicationService\bin\Debug\DN.Domain.pdb
+C:\Projetos\Estudos\Lamattina\DN\DN.ApplicationService\bin\Debug\DN.SharedKernel.pdb
+C:\Projetos\Estudos\Lamattina\DN\DN.ApplicationService\bin\Debug\EntityFramework.xml
+C:\Projetos\Estudos\Lamattina\DN\DN.ApplicationService\obj\Debug\DN.ApplicationService.csprojAssemblyReference.cache
+C:\Projetos\Estudos\Lamattina\DN\DN.ApplicationService\obj\Debug\DN.ApplicationService.csproj.CopyComplete
+C:\Projetos\Estudos\Lamattina\DN\DN.ApplicationService\obj\Debug\DN.ApplicationService.dll
+C:\Projetos\Estudos\Lamattina\DN\DN.ApplicationService\obj\Debug\DN.ApplicationService.pdb

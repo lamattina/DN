@@ -1,0 +1,17 @@
+C:\Projetos\Estudos\Lamattina\DN\DN.Data\bin\Debug\DN.Data.dll.config
+C:\Projetos\Estudos\Lamattina\DN\DN.Data\bin\Debug\DN.Data.dll
+C:\Projetos\Estudos\Lamattina\DN\DN.Data\bin\Debug\DN.Data.pdb
+C:\Projetos\Estudos\Lamattina\DN\DN.Data\bin\Debug\DN.Domain.dll
+C:\Projetos\Estudos\Lamattina\DN\DN.Data\bin\Debug\EntityFramework.dll
+C:\Projetos\Estudos\Lamattina\DN\DN.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Projetos\Estudos\Lamattina\DN\DN.Data\bin\Debug\DN.SharedKernel.dll
+C:\Projetos\Estudos\Lamattina\DN\DN.Data\bin\Debug\DN.Domain.pdb
+C:\Projetos\Estudos\Lamattina\DN\DN.Data\bin\Debug\EntityFramework.xml
+C:\Projetos\Estudos\Lamattina\DN\DN.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Projetos\Estudos\Lamattina\DN\DN.Data\bin\Debug\DN.SharedKernel.pdb
+C:\Projetos\Estudos\Lamattina\DN\DN.Data\obj\Debug\DN.Data.csprojAssemblyReference.cache
+C:\Projetos\Estudos\Lamattina\DN\DN.Data\obj\Debug\DN.Data.csproj.CopyComplete
+C:\Projetos\Estudos\Lamattina\DN\DN.Data\obj\Debug\DN.Data.dll
+C:\Projetos\Estudos\Lamattina\DN\DN.Data\obj\Debug\DN.Data.pdb
+C:\Projetos\Estudos\Lamattina\DN\DN.Data\obj\Debug\DN.Data.Migrations.Initial.resources
+C:\Projetos\Estudos\Lamattina\DN\DN.Data\obj\Debug\DN.Data.csproj.GenerateResource.cache
